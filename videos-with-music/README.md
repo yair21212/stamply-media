@@ -9,3 +9,7 @@ The original videos are unchanged. These are new versions with music from `music
 | `wow-stamps-music.mp4` (6.67 s loop) | Gummies, Michael Ramir C. (02_playful_bloops), 120 → 117 BPM | The loop is exactly 13 beats, and the 10th stamp (3.47 s) lands on a beat. The audio loops seamlessly. The original SFX stay on top. |
 
 Loudness: -14 LUFS integrated, peak -0.5 dBFS or below. In the loops the music sits below the SFX as a bed.
+
+## Update: w40-reel-talk-after (22 s, SFX included)
+
+`w40-reel-talk-after-music.mp4`: Digital Clouds sped up 1.75%. The drop lands on the brand reveal (5.03 s), and the cut to the lock screen (13.70 s) falls exactly 19 beats later. The original SFX stay audible on top of the music. The track fades out on the CTA. -14 LUFS. Rebuilt with `mix_w40.py` (it uses the functions in `mix.py`).
