@@ -23,3 +23,7 @@ Rebuilt with `mix_batch2.py`. In all three, the original SFX stay on top of the 
 | `w40-reel-how-it-works-music.mp4` (24 s) | Macario, Mauro Urbina (03_clean_product_demo), slowed to ~95 BPM | Step 1 (2.67 s) starts on a downbeat, at the point where the track's energy rises. The logo/CTA (17.73 s) lands on a downbeat exactly 24 beats later. The track eases into a soft section during the CTA, then fades out. |
 | `w40-tue-wow-stamps-music.mp4` (8.5 s) | Gummies (02_playful_bloops), 120 → 112.5 BPM | One stamp on every beat (0.533 s). The 10th stamp (5.27 s) lands on a downbeat. |
 | `w40-mon-wow-wallet-music.mp4` (8 s) | House 02, Lily J (04_energetic_ads), 122.7 BPM | A card lands every 3 beats, each on the beat. The first landing (0.95 s) is on a downbeat. |
+
+## Update: toranut-swap (35 s, SFX included)
+
+`toranut-swap-music.mp4`: Gummies (02_playful_bloops) at its native 120 BPM, with no stretch. The quiet intro plays under the problem (the WhatsApp group where nobody answers). The track's first lift lands on the "what if" turn (8.5 s). The starts of steps 1–4 (14.5, 18.5, 22.5 and 26.5 s) fall on downbeats, and every other transition falls on a beat. The track fades out on the end card. The original SFX stay on top. -14 LUFS. Rebuilt with `mix_toranut.py`.
