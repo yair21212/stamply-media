@@ -27,3 +27,7 @@ Rebuilt with `mix_batch2.py`. In all three, the original SFX stay on top of the 
 ## Update: toranut-swap (35 s, SFX included)
 
 `toranut-swap-music.mp4`: Gummies (02_playful_bloops) at its native 120 BPM, with no stretch. The quiet intro plays under the problem (the WhatsApp group where nobody answers). The track's first lift lands on the "what if" turn (8.5 s). The starts of steps 1–4 (14.5, 18.5, 22.5 and 26.5 s) fall on downbeats, and every other transition falls on a beat. The track fades out on the end card. The original SFX stay on top. -14 LUFS. Rebuilt with `mix_toranut.py`.
+
+## Update: Stamply_with_phone_v2 (38.5 s, SFX included)
+
+`stamply-with-phone-v2-music.mp4`: Macario (03_clean_product_demo), slowed 1.2%. The track's build plays under the hook ("Don't have a customer club for your business yet?"). The drop lands on the Stamply logo reveal (4.13 s). The end card (33.27 s) lands exactly 12 bars later, on a downbeat. The original SFX stay on top. The track fades out on the end card. -14 LUFS. Rebuilt with `python3 mix_phone.py <input.mp4> <output.mp4>`.
